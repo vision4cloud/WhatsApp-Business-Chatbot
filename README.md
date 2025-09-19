@@ -44,7 +44,7 @@ So customers feel heard instantly and businesses save hours of manual work.
 
 # Architecture Diagram
 
-
+![Architecture](WhatsApp%20Business%20Chatbot-architecture.png) 
 
 # Why this is powerful
 
