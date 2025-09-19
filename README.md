@@ -32,7 +32,7 @@ This chatbot can:
 
 So customers feel heard instantly and businesses save hours of manual work.
 
-# How it works (Simple Flow)
+# How it works
 
 > User sends a WhatsApp message
 > The message is stored in Amazon S3 (like a mailbox for all chats)
