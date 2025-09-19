@@ -24,11 +24,11 @@ But replying to everyone manually is:
 
 This chatbot can:
 
-# Instantly reply to FAQs
-# Handle customer orders
-# Store every conversation for future insights
-# Use AI to chat smartly with customers
-# Send notifications back to users in real-time
+> Instantly reply to FAQs
+> Handle customer orders
+> Store every conversation for future insights
+> Use AI to chat smartly with customers
+> Send notifications back to users in real-time
 
 So customers feel heard instantly and businesses save hours of manual work.
 
